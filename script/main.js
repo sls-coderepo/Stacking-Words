@@ -9,3 +9,4 @@ addExcitement =(theWordArray) => {
     }
 }
 addExcitement(sentence);
+
